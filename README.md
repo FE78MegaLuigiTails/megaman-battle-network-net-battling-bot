@@ -11,7 +11,6 @@ Regular Net Battles: 95%
 Special Net Battles: 5%
 
 
-
 Net Battling Rates:
 
 1vs1: 50% (Common)
