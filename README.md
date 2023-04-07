@@ -10,8 +10,13 @@ Special Net Battles: 5%
 
 Net Battling Rates:
 1vs1: 50% (Common)
+
 2vs2: 25% (Uncommon)
+
 1vs2 (NetNavi vs Character): 13% (Rare)
+
 1vs2 (Character vs NetNavi): 6% (Epic)
+
 1vs3 (NetNavi vs Character): 3% (Legendary)
+
 1vs3 (Character vs NetNavi): 2% (Mythical)
