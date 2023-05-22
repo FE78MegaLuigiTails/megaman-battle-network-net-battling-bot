@@ -6,9 +6,11 @@ The bot generates random net battles every 30 minutes. Here are the rates of eac
 
 Prompt rates:
 
-Regular Net Battles: 95%
+Regular Net Battles: 45%
 
-Special Net Battles: 5%
+Wave Battles: 45%
+
+Special Battles: 10%
 
 
 Net Battling Rates:
@@ -24,3 +26,30 @@ Net Battling Rates:
 1vs3 (NetNavi vs Character): 3% (Legendary)
 
 1vs3 (Character vs NetNavi): 2% (Mythical)
+
+
+Wave Battling Rates:
+
+1vs1: 40% (Common)
+
+1vs2: 30% (Rare)
+
+1vs3 (Random Characters): 20% (Epic)
+
+1vs3 (Three Characters from one series ex. Super Mario): 10% (Legendary)
+
+
+Deletion Rates:
+
+Net Battles:
+
+NetNavis: 50%
+
+Characters: 50%
+
+
+Wave Battles:
+
+EM Waves: 80%
+
+Characters: 20%
